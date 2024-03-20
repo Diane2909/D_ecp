@@ -1,0 +1,16 @@
+# Node.js dependencies
+node_modules/
+
+# Fichier d'environnement local
+.env
+
+# Fichiers de sauvegarde
+*.bak
+
+# Fichiers de logs
+logs/
+*.log
+
+# Fichiers de configuration spécifiques à l'utilisateur
+.idea/
+.vscode/

@@ -1,0 +1,65 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[remote "origin"]
+	url = git@github.com:EpitechCodingAcademyPromo2024/C-COD-260-PAR-2-1-ecp-vincent1.pons.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "main"]
+	remote = origin
+	merge = refs/heads/main
+[branch "diane1.0"]
+	remote = origin
+	merge = refs/heads/diane1.0
+[branch "diane2.0"]
+	remote = origin
+	merge = refs/heads/diane2.0
+[branch "louis1.2"]
+	remote = origin
+	merge = refs/heads/louis1.2
+[branch "diane1.3"]
+	remote = origin
+	merge = refs/heads/diane1.3
+[branch "louis3.0"]
+	remote = origin
+	merge = refs/heads/louis3.0
+[branch "diane3.0"]
+	remote = origin
+	merge = refs/heads/diane3.0
+[branch "louis4.1"]
+	remote = origin
+	merge = refs/heads/louis4.1
+[branch "diane4.0"]
+	remote = origin
+	merge = refs/heads/diane4.0
+[branch "diane5.0"]
+	remote = origin
+	merge = refs/heads/diane5.0
+[branch "louis4.3"]
+	remote = origin
+	merge = refs/heads/louis4.3
+[branch "louis4.4"]
+	remote = origin
+	merge = refs/heads/louis4.4
+[branch "diane6.0"]
+	remote = origin
+	merge = refs/heads/diane6.0
+[branch "vince3.1"]
+	remote = origin
+	merge = refs/heads/vince3.1
+[branch "vince4.0"]
+	remote = origin
+	merge = refs/heads/vince4.0
+[branch "diane7.0"]
+	remote = origin
+	merge = refs/heads/diane7.0
+[branch "diane8.0"]
+	remote = origin
+	merge = refs/heads/diane8.0
+[branch "louis4.5"]
+	remote = origin
+	merge = refs/heads/louis4.5
+[branch "diane9.0"]
+	remote = origin
+	merge = refs/heads/diane9.0

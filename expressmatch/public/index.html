@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mattch moi le Chat !</title>
+    <style>
+        body { font: 13px sans-serif; text-align: center; }
+        .message-container {
+            height: 300px;
+            overflow-y: auto;
+            border: 1px solid #ccc;
+            padding: 10px;
+            margin-bottom: 10px;
+            display: flex;
+            flex-direction: column;
+            align-items: flex-start;
+        }
+        .message {
+            max-width: 60%;
+            padding: 10px;
+            margin: 5px;
+            border-radius: 20px;
+            color: white;
+            font-size: 1em;
+        }
+        .sent {
+            background-color: #D3D3D3;
+            color: black;
+            align-self: flex-end;
+        }
+        .received {
+            background-color: #6733c8;
+            align-self: flex-start;
+        }
+        form { display: flex; justify-content: center; }
+        input { flex-grow: 1; margin-right: 10px; }
+        button { width: 100px; }
+    </style>
+</head>
+<body>
+    <div class="message-container"></div>
+    <form action="">
+        <input id="msg" autocomplete="off" placeholder="Whrite a message..."/><button>Send</button>
+    </form>
+
+    <script src="/socket.io/socket.io.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+
+    <script>
+        $(function() {
+            var socket = io();
+            var currentRoom = '';
+            var myUserId = socket.id;
+
+            $("form").submit(function(e) {
+                e.preventDefault();
+                if (currentRoom !== '') {
+                    var message = $("#msg").val();
+                    displayMessage(message, 'sent');
+                    socket.emit("chat message", message, currentRoom);
+                    $("#msg").val("");
+                } else {
+                    console.log("You are not in a room.");
+                }
+                return false;
+            });
+
+            socket.on('matched', function(data) {
+                currentRoom = data.room;
+                myUserId = socket.id;
+                socket.emit('join room', currentRoom);
+                console.log(`Join the room: ${currentRoom}`);
+            });
+
+            socket.on('chat message', function(msg, senderId) {
+                if (senderId !== myUserId) {
+                    displayMessage(msg, 'received');
+                }
+            });
+
+            function displayMessage(msg, type) {
+                var messageElement = $("<div>").addClass("message").addClass(type).text(msg);
+                $(".message-container").append(messageElement);
+                $(".message-container").scrollTop($(".message-container")[0].scrollHeight);
+            }
+        });
+    </script>
+</body>
+</html>

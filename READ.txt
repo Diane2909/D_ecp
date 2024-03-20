@@ -1,0 +1,63 @@
+NESTJS
+Installer Nest CLI : npm i -g @nestjs/cli
+Démarrer le serveur de développement : npm run start
+
+REACTJS
+
+Démarrer l'application React : npm start
+
+EXPRESSJS
+
+Installer Express : npm install express
+Démarrer le serveur Express : node index.js
+
+
+>>>>>>>>>>>>>>>CLOUDINARY INSTALL :<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+1/axios : Utilisé pour faire des requêtes HTTP depuis le client (front-end) vers le serveur (back-end).
+react-router-dom : Utilisé pour gérer la navigation dans l'application React.
+
+npm install axios
+npm install react-router-dom
+
+2/nestjs/common, nestjs/core, nestjs/platform-express : Utilisés pour diverses fonctionnalités de base dans une application NestJS, y compris la création de modules, de services et l'intégration avec Express.
+mongoose : Utilisé pour interagir avec MongoDB depuis une application NestJS.
+
+npm install mongoose
+npm install @nestjs/common @nestjs/core @nestjs/platform-express
+
+3/sharp : Utilisé pour le traitement des images, comme le redimensionnement des images dans le back-end.
+
+npm install sharp
+
+4/multer : Un middleware pour gérer multipart/form-data, utilisé pour le téléchargement de fichiers.
+
+npm install multer
+
+5/@nestjs/jwt et @nestjs/passport : Utilisés pour l'authentification JWT et l'intégration de Passport dans NestJS.
+
+npm install @nestjs/jwt @nestjs/passport
+
+6/class-validator : Utilisé pour la validation des données de requête dans NestJS.
+
+npm install class-validator
+
+7/uuid : Utilisé pour générer des identifiants uniques, comme les noms de fichiers pour les images téléchargées.
+
+npm install uuid
+
+8/cloudinary : Utilisé pour télécharger des images sur Cloudinary depuis le back-end.
+
+npm install cloudinary
+
+9/use-navigate: Un hook fourni par react-router-dom pour la navigation programmatique dans une application React.
+
+Installation : npm install use-navigate
+
+>>>>>>>>>>>>>>>>>>>>exemple du .ENV <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+REACT_APP_API_URL=http://localhost:8000
+REACT_APP_CLOUDINARY_CLOUD_NAME=your_cloudinary_cloud_name
+REACT_APP_CLOUDINARY_API_KEY=your_cloudinary_api_key
+REACT_APP_CLOUDINARY_API_SECRET=your_cloudinary_api_secret
+

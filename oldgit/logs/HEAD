@@ -1,0 +1,73 @@
+0000000000000000000000000000000000000000 52b6e65922cf41b513b15f1acdea8441be2681b4 Diane <diane1.robilliard@epitech.eu> 1706019941 +0100	clone: from git@github.com:EpitechCodingAcademyPromo2024/C-COD-260-PAR-2-1-ecp-vincent1.pons.git
+52b6e65922cf41b513b15f1acdea8441be2681b4 52b6e65922cf41b513b15f1acdea8441be2681b4 Diane <diane1.robilliard@epitech.eu> 1706020257 +0100	checkout: moving from main to diane1.0
+52b6e65922cf41b513b15f1acdea8441be2681b4 6a0e5a828f0815ef80db349ed10ffb456d9932e3 Diane <diane1.robilliard@epitech.eu> 1706173452 +0100	commit: Add Front Home/Login/Regiser page
+6a0e5a828f0815ef80db349ed10ffb456d9932e3 52b6e65922cf41b513b15f1acdea8441be2681b4 Diane <diane1.robilliard@epitech.eu> 1706173755 +0100	checkout: moving from diane1.0 to main
+52b6e65922cf41b513b15f1acdea8441be2681b4 a6e6fce58fc156ab7a6521a1af60bd1e7ee0b0bc Diane <diane1.robilliard@epitech.eu> 1706173776 +0100	pull: Fast-forward
+a6e6fce58fc156ab7a6521a1af60bd1e7ee0b0bc a6e6fce58fc156ab7a6521a1af60bd1e7ee0b0bc Diane <diane1.robilliard@epitech.eu> 1706174011 +0100	checkout: moving from main to diane2.0
+a6e6fce58fc156ab7a6521a1af60bd1e7ee0b0bc 4467e7b405ee34834312d5d99eab6c1955b26122 Diane <diane1.robilliard@epitech.eu> 1706179265 +0100	commit: Add front Interest
+4467e7b405ee34834312d5d99eab6c1955b26122 a6e6fce58fc156ab7a6521a1af60bd1e7ee0b0bc Diane <diane1.robilliard@epitech.eu> 1706179333 +0100	checkout: moving from diane2.0 to main
+a6e6fce58fc156ab7a6521a1af60bd1e7ee0b0bc a6e6fce58fc156ab7a6521a1af60bd1e7ee0b0bc Diane <diane1.robilliard@epitech.eu> 1706179386 +0100	reset: moving to HEAD
+a6e6fce58fc156ab7a6521a1af60bd1e7ee0b0bc 6a9b6244142b73ee2ad4fcf9a2f828791aee4723 Diane <diane1.robilliard@epitech.eu> 1706179392 +0100	checkout: moving from main to louis1.2
+6a9b6244142b73ee2ad4fcf9a2f828791aee4723 6a9b6244142b73ee2ad4fcf9a2f828791aee4723 Diane <diane1.robilliard@epitech.eu> 1706180839 +0100	reset: moving to HEAD
+6a9b6244142b73ee2ad4fcf9a2f828791aee4723 4467e7b405ee34834312d5d99eab6c1955b26122 Diane <diane1.robilliard@epitech.eu> 1706180849 +0100	checkout: moving from louis1.2 to diane2.0
+4467e7b405ee34834312d5d99eab6c1955b26122 6a9b6244142b73ee2ad4fcf9a2f828791aee4723 Diane <diane1.robilliard@epitech.eu> 1706180936 +0100	checkout: moving from diane2.0 to louis1.2
+6a9b6244142b73ee2ad4fcf9a2f828791aee4723 5ee2d2f7fd0466cff41f92d503a83e9a23a996e4 Diane <diane1.robilliard@epitech.eu> 1706194758 +0100	commit: Mixed front and back register/login
+5ee2d2f7fd0466cff41f92d503a83e9a23a996e4 4467e7b405ee34834312d5d99eab6c1955b26122 Diane <diane1.robilliard@epitech.eu> 1706194792 +0100	checkout: moving from louis1.2 to diane2.0
+4467e7b405ee34834312d5d99eab6c1955b26122 5ee2d2f7fd0466cff41f92d503a83e9a23a996e4 Diane <diane1.robilliard@epitech.eu> 1706194848 +0100	checkout: moving from diane2.0 to louis1.2
+5ee2d2f7fd0466cff41f92d503a83e9a23a996e4 5ee2d2f7fd0466cff41f92d503a83e9a23a996e4 Diane <diane1.robilliard@epitech.eu> 1706626638 +0100	checkout: moving from louis1.2 to diane1.3
+5ee2d2f7fd0466cff41f92d503a83e9a23a996e4 0225b86994fb26bcdfa0d1aa0f17ce9e751fd373 Diane <diane1.robilliard@epitech.eu> 1706626758 +0100	commit: Front Home
+0225b86994fb26bcdfa0d1aa0f17ce9e751fd373 0225b86994fb26bcdfa0d1aa0f17ce9e751fd373 Diane <diane1.robilliard@epitech.eu> 1706796977 +0100	reset: moving to HEAD
+0225b86994fb26bcdfa0d1aa0f17ce9e751fd373 d46b33932904e81b9cdf94d4e5937cdc0aa7bf4e Diane <diane1.robilliard@epitech.eu> 1706797141 +0100	checkout: moving from diane1.3 to louis3.0
+d46b33932904e81b9cdf94d4e5937cdc0aa7bf4e d46b33932904e81b9cdf94d4e5937cdc0aa7bf4e Diane <diane1.robilliard@epitech.eu> 1706797163 +0100	checkout: moving from louis3.0 to diane3.0
+d46b33932904e81b9cdf94d4e5937cdc0aa7bf4e 0225b86994fb26bcdfa0d1aa0f17ce9e751fd373 Diane <diane1.robilliard@epitech.eu> 1706797427 +0100	checkout: moving from diane3.0 to diane1.3
+0225b86994fb26bcdfa0d1aa0f17ce9e751fd373 30ef59009ba65673a38bf1c5245d5c5d61279729 Diane <diane1.robilliard@epitech.eu> 1706797596 +0100	commit: Final Ajout front
+30ef59009ba65673a38bf1c5245d5c5d61279729 d46b33932904e81b9cdf94d4e5937cdc0aa7bf4e Diane <diane1.robilliard@epitech.eu> 1706797620 +0100	checkout: moving from diane1.3 to diane3.0
+d46b33932904e81b9cdf94d4e5937cdc0aa7bf4e 30ef59009ba65673a38bf1c5245d5c5d61279729 Diane <diane1.robilliard@epitech.eu> 1706797801 +0100	checkout: moving from diane3.0 to diane1.3
+30ef59009ba65673a38bf1c5245d5c5d61279729 dca8e75b75c98210f183479f92ca4e238f1cf6be Diane <diane1.robilliard@epitech.eu> 1706798861 +0100	commit (merge): Resolve merge conflict
+dca8e75b75c98210f183479f92ca4e238f1cf6be d46b33932904e81b9cdf94d4e5937cdc0aa7bf4e Diane <diane1.robilliard@epitech.eu> 1706798937 +0100	checkout: moving from diane1.3 to diane3.0
+d46b33932904e81b9cdf94d4e5937cdc0aa7bf4e 91899741818487bf4eb20d0cf00743fbd19d7deb Diane <diane1.robilliard@epitech.eu> 1706798954 +0100	pull: Fast-forward
+91899741818487bf4eb20d0cf00743fbd19d7deb 28485c3f25492a73f523bc19a3687156b12a562b Diane <diane1.robilliard@epitech.eu> 1706873008 +0100	commit: Ajout de front sur resgister step
+28485c3f25492a73f523bc19a3687156b12a562b 55ff7e01dffc1bed05ad64217a41df587f8308ee Diane <diane1.robilliard@epitech.eu> 1707124303 +0100	commit: Affichage from db
+55ff7e01dffc1bed05ad64217a41df587f8308ee 3918ed14bea01f2b38e0dda2d6fb8bdd35347579 Diane <diane1.robilliard@epitech.eu> 1707128669 +0100	commit: Affcichage card pour user et admin
+3918ed14bea01f2b38e0dda2d6fb8bdd35347579 8b6b231546e17583036ef302613fb58775e438af Diane <diane1.robilliard@epitech.eu> 1707131460 +0100	commit: Ajout de la logique des likes
+8b6b231546e17583036ef302613fb58775e438af 3997268e2cc418d18b3b0f08a08d1432313e0a4d Diane <diane1.robilliard@epitech.eu> 1707153571 +0100	checkout: moving from diane3.0 to louis4.1
+3997268e2cc418d18b3b0f08a08d1432313e0a4d 3997268e2cc418d18b3b0f08a08d1432313e0a4d Diane <diane1.robilliard@epitech.eu> 1707165724 +0100	checkout: moving from louis4.1 to diane4.0
+3997268e2cc418d18b3b0f08a08d1432313e0a4d 3f4f5b09ba54649d26f2d77d0446c81c6d3ebd23 Diane <diane1.robilliard@epitech.eu> 1707176743 +0100	commit: Ajout du front
+3f4f5b09ba54649d26f2d77d0446c81c6d3ebd23 65a1cf9c2fe4ef0e2dd718d81784200c8afbaea6 Diane <diane1.robilliard@epitech.eu> 1707341811 +0100	commit: update info user
+65a1cf9c2fe4ef0e2dd718d81784200c8afbaea6 4ed282dc12a40aa10c1a5b8192d5909f54de538c Diane <diane1.robilliard@epitech.eu> 1707405078 +0100	commit: Version stable Diane (manque photo et chat)
+4ed282dc12a40aa10c1a5b8192d5909f54de538c 24c0bfb39d0f321eb98026280fc380a1f90369ce Diane <diane1.robilliard@epitech.eu> 1707421282 +0100	commit: Ajout Notif
+24c0bfb39d0f321eb98026280fc380a1f90369ce 24c0bfb39d0f321eb98026280fc380a1f90369ce Diane <diane1.robilliard@epitech.eu> 1707421397 +0100	checkout: moving from diane4.0 to diane5.0
+24c0bfb39d0f321eb98026280fc380a1f90369ce d70c6f2e2c9a457a262db861905a6e2d2d1e5cdb Diane <diane1.robilliard@epitech.eu> 1707421428 +0100	checkout: moving from diane5.0 to louis4.3
+d70c6f2e2c9a457a262db861905a6e2d2d1e5cdb d70c6f2e2c9a457a262db861905a6e2d2d1e5cdb Diane <diane1.robilliard@epitech.eu> 1707421671 +0100	checkout: moving from louis4.3 to louis4.4
+d70c6f2e2c9a457a262db861905a6e2d2d1e5cdb 24c0bfb39d0f321eb98026280fc380a1f90369ce Diane <diane1.robilliard@epitech.eu> 1707423271 +0100	checkout: moving from louis4.4 to diane5.0
+24c0bfb39d0f321eb98026280fc380a1f90369ce 24c0bfb39d0f321eb98026280fc380a1f90369ce Diane <diane1.robilliard@epitech.eu> 1707428384 +0100	checkout: moving from diane5.0 to diane6.0
+24c0bfb39d0f321eb98026280fc380a1f90369ce a8e090bd323600691903163d45d6bc700c18df75 Diane <diane1.robilliard@epitech.eu> 1707428436 +0100	commit: merge louis diane
+a8e090bd323600691903163d45d6bc700c18df75 a8e090bd323600691903163d45d6bc700c18df75 Diane <diane1.robilliard@epitech.eu> 1707428482 +0100	checkout: moving from diane6.0 to diane7.0
+a8e090bd323600691903163d45d6bc700c18df75 f6df7622640d3d8eec4c1f8f5dee385715eae2d1 Diane <diane1.robilliard@epitech.eu> 1707428563 +0100	checkout: moving from diane7.0 to vince3.1
+f6df7622640d3d8eec4c1f8f5dee385715eae2d1 f6df7622640d3d8eec4c1f8f5dee385715eae2d1 Diane <diane1.robilliard@epitech.eu> 1707428587 +0100	checkout: moving from vince3.1 to vince4.0
+f6df7622640d3d8eec4c1f8f5dee385715eae2d1 a8e090bd323600691903163d45d6bc700c18df75 Diane <diane1.robilliard@epitech.eu> 1707428688 +0100	checkout: moving from vince4.0 to diane6.0
+a8e090bd323600691903163d45d6bc700c18df75 a8e090bd323600691903163d45d6bc700c18df75 Diane <diane1.robilliard@epitech.eu> 1707428717 +0100	checkout: moving from diane6.0 to diane7.0
+a8e090bd323600691903163d45d6bc700c18df75 f6df7622640d3d8eec4c1f8f5dee385715eae2d1 Diane <diane1.robilliard@epitech.eu> 1707428872 +0100	checkout: moving from diane7.0 to vince4.0
+f6df7622640d3d8eec4c1f8f5dee385715eae2d1 e155c3b356a48f31bd6c89638709b89142903720 Diane <diane1.robilliard@epitech.eu> 1707431068 +0100	commit (merge): Merge Vince et Diane
+e155c3b356a48f31bd6c89638709b89142903720 a8e090bd323600691903163d45d6bc700c18df75 Diane <diane1.robilliard@epitech.eu> 1707431128 +0100	checkout: moving from vince4.0 to diane7.0
+a8e090bd323600691903163d45d6bc700c18df75 ea755046605e23363fb98431001dee4122242e5c Diane <diane1.robilliard@epitech.eu> 1707432486 +0100	pull: Fast-forward
+ea755046605e23363fb98431001dee4122242e5c 21c7a08d6a8515ff6f73c07b5bf470ed06c6112b Diane <diane1.robilliard@epitech.eu> 1707435742 +0100	commit: affiche match user
+21c7a08d6a8515ff6f73c07b5bf470ed06c6112b faef3dcc8db57731f1d50974e133706c8f1c4466 Diane <diane1.robilliard@epitech.eu> 1707435794 +0100	commit: affiche match user
+faef3dcc8db57731f1d50974e133706c8f1c4466 24c0bfb39d0f321eb98026280fc380a1f90369ce Diane <diane1.robilliard@epitech.eu> 1707435803 +0100	checkout: moving from diane7.0 to diane5.0
+24c0bfb39d0f321eb98026280fc380a1f90369ce faef3dcc8db57731f1d50974e133706c8f1c4466 Diane <diane1.robilliard@epitech.eu> 1707435992 +0100	checkout: moving from diane5.0 to diane7.0
+faef3dcc8db57731f1d50974e133706c8f1c4466 faef3dcc8db57731f1d50974e133706c8f1c4466 Diane <diane1.robilliard@epitech.eu> 1707436021 +0100	checkout: moving from diane7.0 to diane8.0
+faef3dcc8db57731f1d50974e133706c8f1c4466 d70c6f2e2c9a457a262db861905a6e2d2d1e5cdb Diane <diane1.robilliard@epitech.eu> 1707436155 +0100	checkout: moving from diane8.0 to louis4.3
+d70c6f2e2c9a457a262db861905a6e2d2d1e5cdb d70c6f2e2c9a457a262db861905a6e2d2d1e5cdb Diane <diane1.robilliard@epitech.eu> 1707436182 +0100	checkout: moving from louis4.3 to louis4.5
+d70c6f2e2c9a457a262db861905a6e2d2d1e5cdb faef3dcc8db57731f1d50974e133706c8f1c4466 Diane <diane1.robilliard@epitech.eu> 1707436380 +0100	checkout: moving from louis4.5 to diane8.0
+faef3dcc8db57731f1d50974e133706c8f1c4466 9aa2e98f309816f46f006caf35c39185cc841ceb Diane <diane1.robilliard@epitech.eu> 1707437824 +0100	commit (merge): final merge
+9aa2e98f309816f46f006caf35c39185cc841ceb c1159ad64932ad053bcb1e345cf49ab07599b031 Diane <diane1.robilliard@epitech.eu> 1707440466 +0100	commit: final merge
+c1159ad64932ad053bcb1e345cf49ab07599b031 faef3dcc8db57731f1d50974e133706c8f1c4466 Diane <diane1.robilliard@epitech.eu> 1707440498 +0100	checkout: moving from diane8.0 to diane7.0
+faef3dcc8db57731f1d50974e133706c8f1c4466 faef3dcc8db57731f1d50974e133706c8f1c4466 Diane <diane1.robilliard@epitech.eu> 1707469681 +0100	reset: moving to HEAD
+faef3dcc8db57731f1d50974e133706c8f1c4466 c1159ad64932ad053bcb1e345cf49ab07599b031 Diane <diane1.robilliard@epitech.eu> 1707469691 +0100	checkout: moving from diane7.0 to diane8.0
+c1159ad64932ad053bcb1e345cf49ab07599b031 65e4e1c7d67a1e5999ed5902749737738ae0d97b Diane <diane1.robilliard@epitech.eu> 1707476893 +0100	commit: ajout photo
+65e4e1c7d67a1e5999ed5902749737738ae0d97b 65e4e1c7d67a1e5999ed5902749737738ae0d97b Diane <diane1.robilliard@epitech.eu> 1710955768 +0100	checkout: moving from diane8.0 to diane9.0
+65e4e1c7d67a1e5999ed5902749737738ae0d97b 7ebf8b5cd6befb720a1f9d2b2a8ad221a89a2d4e Diane <diane1.robilliard@epitech.eu> 1710966241 +0100	commit: ReadMe
+7ebf8b5cd6befb720a1f9d2b2a8ad221a89a2d4e a6e6fce58fc156ab7a6521a1af60bd1e7ee0b0bc Diane <diane1.robilliard@epitech.eu> 1710967202 +0100	checkout: moving from diane9.0 to main
+a6e6fce58fc156ab7a6521a1af60bd1e7ee0b0bc cb8e65a3a731bba1f730e1c0498353453ce9477f Diane <diane1.robilliard@epitech.eu> 1710967220 +0100	pull: Fast-forward
+cb8e65a3a731bba1f730e1c0498353453ce9477f b8cefe9b3a066848fd6dabb14c2827fec90a1423 Diane <diane1.robilliard@epitech.eu> 1710967609 +0100	commit: Remove .env file
+b8cefe9b3a066848fd6dabb14c2827fec90a1423 6ac57fa4e0903eb0ef959935e585619866045f8a Diane <diane1.robilliard@epitech.eu> 1710968053 +0100	commit: Remove node_modules from tracking
