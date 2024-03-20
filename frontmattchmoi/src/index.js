@@ -25,26 +25,9 @@ import { Slide } from "react-toastify";
 import './toastStyles.css';
 import Notif from "./pages/Notif";
 
-
 const router = createBrowserRouter([
   {
     path: "/",
-    element: <App/>
-  },
-  {
-    path: "/register",
-    element: <Register/>
-  },
-  {
-    path: "/login",
-    element: <Login/>
-  },
-  {
-    path: "/interest",
-    element: <Interest/>
-  },
-  {
-    path: "my-admin",
     element: (
       <div>
         <App />
@@ -135,7 +118,6 @@ const router = createBrowserRouter([
   //   ],
   // },
 ]);
-
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
